@@ -7,6 +7,7 @@ I was born in Coimbra and work in Porto, Portugal.
 I'm interested in respiratory physiology, digital health and scientific methodology and writing.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://www.linkedin.com/in/tiagojcnt)
+[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white 'ResearchGate')](https://www.researchgate.net/profile/Tiago-Jacinto)
 
 
 
