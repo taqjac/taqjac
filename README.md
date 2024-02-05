@@ -6,13 +6,8 @@ I was born in Coimbra and work in Porto, Portugal.
 
 I'm interested in respiratory physiology, digital health and scientific methodology and writing.
 
-[![A mushroom-head robot](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'Codey the Codecademy mascot')](https://codecademy.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'LinkedIn')](https://www.linkedin.com/in/tiagojcnt)
 
-![LinkedIN]()
-Research Gate
-Web of Science
-
-Mastodon
 
 
 <!---
